@@ -15,7 +15,7 @@
       "zip": "80113"
     },
     "website": "http://www.grantpardington.com",
-    "resumedownload":"http://grantpardington.com",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
@@ -40,7 +40,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here is a list of the web development technologies I am currently the most comfortable with:",
+    "skillmessage":"Here is a list of the web development technologies I am currently strongest with:",
     "education":[
       {
         "school":"University of Denver",
@@ -116,25 +116,25 @@
       },
       {
         "title":"Near Beer",
-        "category":"A website that allows users to search for breweries by city, zip code, or name utilizing Open Brewery's API and MapQuest's API",
+        "category":"A website that allows users to search for breweries by city, zip code, or name",
         "image":"Near-Beer-Screenshot.png",
         "url":"https://mrmathews08.github.io/Near-Beer/"
       },
       {
         "title":"Employee-Directory",
-        "category":"A React application that allows users to view non-sensitive, organized data about other employees.",
+        "category":"A React application that allows users to view non-sensitive, organized data about other employees",
         "image":"Employee-Directory-Screenshot.png",
         "url":"https://gpardington.github.io/Employee-Directory/"
       },
       {
         "title":"Fitness Tracker",
-        "category":"A full-stack application that allows users to create, track, and view stats of their different exercises in their daily workout routines.",
+        "category":"A full-stack application that allows users to track and view stats of their different exercises in their daily workout routines",
         "image":"Fitness-Tracker-Screenshot.png",
         "url":"https://limitless-savannah-82266.herokuapp.com/"
       },
       {
         "title":"Weather Dashboard",
-        "category":"An application that utilizes a 3rd party API that allows the user to search for a 5-day weather forecast for any city.",
+        "category":"An application that utilizes a 3rd party API that allows the user to search for a 5-day weather forecast for any city",
         "image":"Weather-Dashboard-Screenshot.png",
         "url":"https://gpardington.github.io/Weather-Dashboard/"
       },
@@ -143,7 +143,7 @@
         "category":"A budget tracker application that allows the user to add expenses and deposits to their budget with or without an internet connection.",
         "image":"Budget-Tracker-Screenshot.png",
         "url":"https://floating-shore-68057.herokuapp.com/"
-      }   
+      } 
     ]
   },
   "testimonials":{
