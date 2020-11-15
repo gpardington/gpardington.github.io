@@ -107,8 +107,43 @@
         "category":"A website that allows users to store their favorite TV shows and movies in a list organized by genre or streaming service",
         "image":"WatchThis.png",
         "url":"https://young-inlet-91954.herokuapp.com/"
-      }
-      //Continue adding projects here
+      },
+      {
+        "title":"Team Profile Generator",
+        "category":"A Node.JS application that helps the user organize their team by generating a nice looking HTML page with all of the input information",
+        "image":"Team-Profile-Generator.png",
+        "url":"https://github.com/gpardington/Team-Profile-Generator"
+      },
+      {
+        "title":"Near Beer",
+        "category":"A website that allows users to search for breweries by city, zip code, or name utilizing Open Brewery's API and MapQuest's API",
+        "image":"Near-Beer-Screenshot.png",
+        "url":"https://mrmathews08.github.io/Near-Beer/"
+      },
+      {
+        "title":"Employee-Directory",
+        "category":"A React application that allows users to view non-sensitive, organized data about other employees.",
+        "image":"Employee-Directory-Screenshot.png",
+        "url":"https://gpardington.github.io/Employee-Directory/"
+      },
+      {
+        "title":"Fitness Tracker",
+        "category":"A full-stack application that allows users to create, track, and view stats of their different exercises in their daily workout routines.",
+        "image":"Fitness-Tracker-Screenshot.png",
+        "url":"https://limitless-savannah-82266.herokuapp.com/"
+      },
+      {
+        "title":"Weather Dashboard",
+        "category":"An application that utilizes a 3rd party API that allows the user to search for a 5-day weather forecast for any city.",
+        "image":"Weather-Dashboard-Screenshot.png",
+        "url":"https://gpardington.github.io/Weather-Dashboard/"
+      },
+      {
+        "title":"Offline Budget Tracker",
+        "category":"A budget tracker application that allows the user to add expenses and deposits to their budget with or without an internet connection.",
+        "image":"Budget-Tracker-Screenshot.png",
+        "url":"https://floating-shore-68057.herokuapp.com/"
+      }   
     ]
   },
   "testimonials":{
