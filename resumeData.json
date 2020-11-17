@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name":"Grant Pardington",
+    "occupation":"full stack web developer",
+    "description":"I am an extremely detail oriented person who loves combining my creativity and problem solving skills to create efficiently functioning, visually appealing websites and applications",
+    "image":"profilepic.jpeg",
+    "bio":"I have always been very interested in technology, art, and problem solving. What better way to combine these interests! I am currently enrolled at The Univeristy of Denver's Full Stack Web Development Bootcamp and will be graduating in December, 2020. I am extremely excited to slightly shift my career path and apply all of the knowledge I have gained with this course to a web development position. If you can't find me behind a computer screen, you will most likely find me skiing, traveling, fishing, playing the drums, at the gym, or checking out a new craft brewery.",
+    "contactmessage":"If I have caught your attention, please reach out to me!",
+    "email": "grant.pardington@gmail.com",
+    "phone": "303-927-8673",
+    "address":{
+      "street":"3121 S Downing St",
+      "city":"Englewood",
+      "state":"Colorado",
+      "zip": "80113"
+    },
+    "website": "http://www.grantpardington.com",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/gpardington",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/grant-pardington-15741726/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/gpardy82",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/gpardington",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here is a list of the web development technologies I am currently strongest with:",
+    "education":[
+      {
+        "school":"University of Denver",
+        "degree":"Certificate - Full Stack Web Development",
+        "graduated":"December 2020",
+        "description":"Studied numerous front end and back end coding languages, libraries, and programs in a 24 week long bootcamp."
+      },
+      {
+        "school":"Colorado State University",
+        "degree":"Bachelors Degree in Natural Resource Recreation & Tourism",
+        "graduated":"September 2014",
+        "description":"Studied the effects of recreation and tourism on nature and how to better manage them. Learned how to start, manage, and market small recreational businesses. Had great introductory classes on subjects such as event planning, accounting, and business finance."
+      }
+    ],
+    "work":[
+      {
+        "company":"Vail Resorts",
+        "title":"Reservations Supervisor",
+        "years":"September 2015 - Present",
+        "description":"Supervise a team of up to 25 Vacation Coordinators for Vail & Beaver Creek ski resorts. I am also the first line of contact for over 20 different property management companies. I audit an average of 65 reservations per day, and resolve approximately 10 escalated guest issues per week. I contribute to several on-going projects that improve the quality of training and necessary information available to my team of Vacation Coordinators."
+      },
+      {
+        "company":"Vail Resorts",
+        "title":"Vacation Coordinator",
+        "years":"September 2014 - September 2015",
+        "description":"Call center agent that sold nearly $1.5 million in revenue by building custom vacation packages for guests visiting Vail, Beaver Creek, Breckenridge, Keystone, and Heavenly ski resorts."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"75%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"WatchThis!",
+        "category":"A website that allows users to store their favorite TV shows and movies in a list organized by genre or streaming service",
+        "image":"WatchThis.png",
+        "url":"https://young-inlet-91954.herokuapp.com/"
+      },
+      {
+        "title":"Team Profile Generator",
+        "category":"A Node.JS application that helps the user organize their team by generating a nice looking HTML page with all of the input information",
+        "image":"Team-Profile-Generator.png",
+        "url":"https://github.com/gpardington/Team-Profile-Generator"
+      },
+      {
+        "title":"Near Beer",
+        "category":"A website that allows users to search for breweries by city, zip code, or name",
+        "image":"Near-Beer-Screenshot.png",
+        "url":"https://mrmathews08.github.io/Near-Beer/"
+      },
+      {
+        "title":"Employee-Directory",
+        "category":"A React application that allows users to view non-sensitive, organized data about other employees",
+        "image":"Employee-Directory-Screenshot.png",
+        "url":"https://gpardington.github.io/Employee-Directory/"
+      },
+      {
+        "title":"Fitness Tracker",
+        "category":"A full-stack application that allows users to track and view stats of their different exercises in their daily workout routines",
+        "image":"Fitness-Tracker-Screenshot.png",
+        "url":"https://limitless-savannah-82266.herokuapp.com/"
+      },
+      {
+        "title":"Weather Dashboard",
+        "category":"An application that utilizes a 3rd party API that allows the user to search for a 5-day weather forecast for any city",
+        "image":"Weather-Dashboard-Screenshot.png",
+        "url":"https://gpardington.github.io/Weather-Dashboard/"
+      },
+      {
+        "title":"Offline Budget Tracker",
+        "category":"A budget tracker application that allows the user to add expenses and deposits to their budget with or without an internet connection.",
+        "image":"Budget-Tracker-Screenshot.png",
+        "url":"https://floating-shore-68057.herokuapp.com/"
+      } 
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Grant is a truly dedicated hospitality professional. I had the pleasure of managing Grant at Vail Resorts and I don't think I have ever worked with a more tireless advocate for our guests. During the time we worked together Grant worked hard to solve issues for our customers and worked to develop himself to be the best team member he could be.",
+        "user":"John Marren"
+      }
+    ]
+  }
+}
