@@ -12,7 +12,7 @@
 
 ## Deployed Link
 
-https://gpardington.github.io/React-Portfolio/
+https://gpardington.github.io/
 
 ## Description
 

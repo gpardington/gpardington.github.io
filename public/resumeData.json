@@ -9,7 +9,6 @@
     "email": "grant.pardington@gmail.com",
     "phone": "303-927-8673",
     "address":{
-      "street":"3121 S Downing St",
       "city":"Englewood",
       "state":"Colorado",
       "zip": "80113"
@@ -141,7 +140,7 @@
       {
         "title":"Offline Budget Tracker",
         "category":"A budget tracker application that allows the user to add expenses and deposits to their budget with or without an internet connection.",
-        "image":"Budget-Tracker-Screenshot.png",
+        "image":"Budget-Tracke-Screenshot.png",
         "url":"https://floating-shore-68057.herokuapp.com/"
       } 
     ]
