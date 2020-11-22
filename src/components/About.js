@@ -7,7 +7,6 @@ class About extends Component {
       var name = this.props.data.name;
       var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
-      var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
@@ -31,8 +30,7 @@ class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
+						   <span>{city} {state}, {zip}<br />     
                    </span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
@@ -40,7 +38,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a target="_blank" href="https://github.com/gpardington/React-Portfolio/blob/main/public/images/GPardResumeOct2020.pdf" className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a target="_blank" href="https://github.com/gpardington/gpardington.github.io/blob/main/public/images/GPardResumeOct2020.pdf" className="button"><i className="fa fa-download"></i>{resumeDownload}Download Resume</a>
                   </p>
                </div>
             </div>
